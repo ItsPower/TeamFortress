@@ -1,0 +1,11 @@
+main: fr.itspower.teamfortress.Main
+name: tf
+version: 1.0
+author: Its_Power
+load: POSTWORLD
+commands:
+    teamfortress:
+        usage: /<command>
+        aliases: [tf]
+    pass:
+        usage: /<command>
